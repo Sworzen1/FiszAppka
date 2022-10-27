@@ -1,0 +1,7 @@
+  [
+    {"answer":"Skryptowy oraz wieloparadygmatowy język programowania, stworzony przez firmę Netscape, najczęściej stosowany na stronach internetowych.", "question":"Czym jest JavaScript ?","category":"JavaScript", "id":1,"difficulty":"easy"},
+    {"answer":"JSON, czyli Notacja Obiektowa JavaScriptu, lekki format wymiany danych. Moze byc wykorzystywany do wymiany miedzy programami napisanymi w dowolnym jezyku.", "question":"Co to jest JSON i do czego sluzy ?","category":"JavaScript", "id":2,"difficulty":"medium"},
+    {"answer":"setTimeout to funkcja, ktora wykonuje kod lub funkcje po okreslonym czasie wyrazonym w milisekundach.", "question":"Do czego sluzy setTimeout ?","category":"JavaScript", "id":3,"difficulty":"hard"},
+    {"answer":"React - javascriptowa biblioteka do tworzenia interfejsow graficznych aplikacji webowych.", "question":"Co to jest React ?","category":"React", "id":4,"difficulty":"easy"},
+    {"answer":"Anular - otwarty framework i platforma do tworzenia SPA, napisany w języku TypeScript i wspierany oraz rozwijany przez Google.", "question":"Co to jest Angular ?","category":"Angular", "id":5,"difficulty":"easy"}
+  ]
